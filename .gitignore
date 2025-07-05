@@ -1,0 +1,8 @@
+.env
+pyspark_env
+__pycache__
+output
+.idea
+.venv
+artifacts
+bert_model
