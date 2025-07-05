@@ -6,3 +6,4 @@ output
 .venv
 artifacts
 bert_model
+.ipynb_checkpoints
